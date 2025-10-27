@@ -1,6 +1,5 @@
-/* assets/style.css - Bright Clean Modern touches */
 :root{
-  --accent: #0d6efd; /* bootstrap primary */
+  --accent: #0d6efd; 
   --muted: #6c757d;
   --card-bg: #ffffff;
   --bg: #f7f9fc;
@@ -65,7 +64,7 @@ body {
   text-align: center;
 }
 
-/* responsive tweaks */
 @media (min-width: 992px){
   .container-lg { max-width: 980px; }
 }
+
