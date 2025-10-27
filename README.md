@@ -160,7 +160,7 @@ Dengan memanfaatkan Laragon, pengujian sistem dapat dilakukan secara cepat dan e
 ## 📎 Link Terkait
 
 * 🌐 [Demo Lokal (http://localhost/pendaftaran-siswa/)](http://localhost/pendaftaran-siswa/)
-* 📘 [Artikel Penjelasan di Blogspot](https://your-blog-link.com)
+* 📘 [Artikel Penjelasan di Blogspot](https://aryarangga5025241072.blogspot.com/2025/10/backend-php-membuat-pendaftaran.html)
 
 ```
 
